@@ -1,0 +1,26 @@
+body
+{
+    text-align: center;   
+}
+#start
+{
+    font-size: 22px;
+}
+.heading
+{
+    width: 100%;
+    text-align: center;
+}
+.heading h3
+{
+    display: inline;
+    color: black;
+    font-weight: 800;
+    text-decoration: underline;
+    font-size: 30px;
+}
+#instruction
+{
+    margin-right: -525px;
+    margin-left: 325px;
+}
